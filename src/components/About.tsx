@@ -1,6 +1,7 @@
 import React from 'react';
 import { Code, BarChart as ChartBar, DatabaseIcon } from 'lucide-react';
-
+const='/abc.jpg';
+const='/BEST Gurwinder General CV.docx';
 const About = () => {
   return (
     <section
